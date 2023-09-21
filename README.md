@@ -1,4 +1,4 @@
-# CITY CAB
+# TAXI APP
 
 This is an open source project to build and deploy a ride hailing app(Taxi-App) using [FLUTTER](https://flutter.dev) and [FIREBASE](https://firebase.com) as Backend.
 
